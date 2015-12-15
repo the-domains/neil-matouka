@@ -1,7 +1,7 @@
 name: Neil Matouka
 favicon: null
-layout_spectrum: 0.00582229602150619
-typography_spectrum: 0.29105259687639773
+layout_spectrum: 0.24574
+typography_spectrum: 0.28122
 title: Neil Matouka
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0.287792936200276
-  lightness: 0.6990139330737293
-  saturation: 0.000929602887481451
-  rhythmicContrast: 0.9243401840794832
+  lightness: 0.8125
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
