@@ -1,20 +1,4 @@
-name: Neil Matouka
-favicon: null
-layout_spectrum: 0.24574
 typography_spectrum: 0.28122
-title: Neil Matouka
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,24 @@ color:
   lightness: 0.8125
   saturation: 0.125
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24574
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Neil Matouka
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: LinkedIn
+    url: 'http://www.linkedin.com/in/neilmatouka'
+    type: external
+favicon: null
+title: Neil Matouka
 purpose: []
