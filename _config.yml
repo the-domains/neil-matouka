@@ -28,6 +28,9 @@ navigation:
   - name: LinkedIn
     url: 'http://www.linkedin.com/in/neilmatouka'
     type: external
+  - name: Twitter
+    url: 'http://www.twitter.com/nmatouka'
+    type: external
 favicon: null
 title: Neil Matouka
 purpose: []
